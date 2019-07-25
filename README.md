@@ -15,8 +15,8 @@ MacOS Mojave 10.14.5
 3-4 days to complete
 
 Interesting to note:
-> Vuforia utilizes ARKit to locate planes and position camera accordingly
-> A second camera is added for the right eye (stereo)
+> Vuforia utilizes ARKit to locate planes and position camera accordingly.
+> A second camera is added for the right eye (stereo).
 > Players end up exercising a little bit while looking and turning around.
 > Things are placed in easy to reach places (not below, not above)
 
